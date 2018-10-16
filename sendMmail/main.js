@@ -1,7 +1,7 @@
 console.log('* [example 1.1] sending test email');
  
 // Require'ing module and setting default options
- 
+ // npm install gmail-send
 var send = require('gmail-send')({
 //var send = require('../index.js')({
   user: 'recettedbc.madasoftware@gmail.com',
